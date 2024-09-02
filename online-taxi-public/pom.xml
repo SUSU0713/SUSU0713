@@ -12,6 +12,7 @@
         <module>api-passenger</module>
         <module>service-verificationcode</module>
         <module>common</module>
+        <module>service-passenger-user</module>
     </modules>
 
     <parent>
@@ -20,7 +21,6 @@
         <version>2.4.13</version>
     </parent>
     <dependencies>
-
         <dependency>
             <groupId>net.sf.json-lib</groupId>
             <artifactId>json-lib</artifactId>
@@ -43,5 +43,32 @@
             <artifactId>common</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.auth0</groupId>
+            <artifactId>java-jwt</artifactId>
+            <version>3.14.0</version>
+        </dependency>
     </dependencies>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.alibaba.cloud</groupId>
+                <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+                <version>2021.1</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>2020.0.1</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+
+        </dependencies>
+    </dependencyManagement>
 </project>
