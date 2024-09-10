@@ -1245,23 +1245,20 @@
       <change afterPath="$PROJECT_DIR$/../spring_all/spring_test_01/target/classes/com/msb/dao/Emp/dao.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spring_all/spring_test_01/target/test-classes/test.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled66666.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/ApiPassengerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/ApiPassengerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/controller/VerificationCodeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/controller/VerificationCodeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/request/VerificationCodeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/mashibing/request/VerificationCodeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/controller/testController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/controller/testController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/service/VerificationCodeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/service/VerificationCodeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-passenger/target/classes/com/mashibing/apipassenger/controller/VerificationCodeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/target/classes/com/mashibing/apipassenger/controller/VerificationCodeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-passenger/target/classes/com/mashibing/apipassenger/controller/testController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/target/classes/com/mashibing/apipassenger/controller/testController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-passenger/target/classes/com/mashibing/apipassenger/service/VerificationCodeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/target/classes/com/mashibing/apipassenger/service/VerificationCodeService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/src/main/java/com/mashibing/constant/CommonStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/mashibing/constant/CommonStatusEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/mashibing/dto/ResponseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/mashibing/dto/ResponseResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/mashibing/response/TokenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/mashibing/response/TokenResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/mashibing/utils/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/mashibing/utils/JwtUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/classes/com/mashibing/constant/CommonStatusEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/mashibing/constant/CommonStatusEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/mashibing/dto/ResponseResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/mashibing/dto/ResponseResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verificationcode/src/main/java/com/mashibing/serviceverificationcode/controller/testController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verificationcode/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-verificationcode/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/mashibing/response/TokenResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/mashibing/response/TokenResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/mashibing/utils/JwtUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/mashibing/utils/JwtUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-passenger-user/target/classes/com/mashibing/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-passenger-user/target/classes/com/mashibing/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-passenger-user/target/classes/com/mashibing/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-passenger-user/target/classes/com/mashibing/service/UserService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1331,7 +1328,7 @@
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.JwtUtils">
+  <component name="RunManager" selected="Spring Boot.ServicePassengerUserApplication">
     <configuration name="JwtUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mashibing.utils.JwtUtils" />
       <module name="common" />
@@ -1380,9 +1377,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JwtUtils" />
         <item itemvalue="Spring Boot.ApiPassengerApplication" />
         <item itemvalue="Spring Boot.ServicePassengerUserApplication" />
+        <item itemvalue="Application.JwtUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -1404,7 +1401,9 @@
       <workItem from="1725007421087" duration="2126000" />
       <workItem from="1725071084395" duration="1619000" />
       <workItem from="1725177363802" duration="7210000" />
-      <workItem from="1725242504845" duration="8389000" />
+      <workItem from="1725242504845" duration="8817000" />
+      <workItem from="1725610247795" duration="6536000" />
+      <workItem from="1725930565463" duration="3990000" />
     </task>
     <task id="LOCAL-00001" summary="1、创建了service-verification微服务&#10;2、搭建了Nacos，在Nacos中注册了api-service和service-verification微服务">
       <created>1724993090656</created>
@@ -1427,7 +1426,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725009399798</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="获取验证码余下两步 + 校验验证码">
+      <created>1725255807937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725255807937</updated>
+    </task>
+    <task id="LOCAL-00005" summary="获取验证码余下两步 + 校验验证码（成功版）">
+      <created>1725255940578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725255940578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1493,18 +1506,25 @@
     <MESSAGE value="1、创建了service-verification微服务&#10;2、搭建了Nacos，在Nacos中注册了api-service和service-verification微服务" />
     <MESSAGE value="1、创建了service-verification微服务 2、搭建了Nacos，在Nacos中注册了api-service和service-verification微服务(补充)" />
     <MESSAGE value="service-verificationcode微服务功能完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="service-verificationcode微服务功能完善" />
+    <MESSAGE value="获取验证码余下两步 + 校验验证码" />
+    <MESSAGE value="获取验证码余下两步 + 校验验证码（成功版）" />
+    <option name="LAST_COMMIT_MESSAGE" value="获取验证码余下两步 + 校验验证码（成功版）" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2239" y="-805" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1725611190547">
+      <screen x="1549" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2239" y="-805" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725611190547" />
     <state x="418" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1725004797507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="418" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725004797507" />
-    <state x="1120" y="-1168" width="390" height="532" key="#com.intellij.ide.util.MemberChooser" timestamp="1725255206836">
+    <state x="1120" y="-1168" width="340" height="396" key="#com.intellij.ide.util.MemberChooser" timestamp="1725931796800">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state x="1120" y="-1168" width="390" height="532" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255206836" />
+    <state x="1120" y="-1168" width="390" height="532" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725931796800" />
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725008522309" />
+    <state x="2634" y="-878" width="340" height="396" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725614065937" />
     <state x="507" y="271" width="522" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1725008799214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1513,88 +1533,116 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="435" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725008755143" />
-    <state x="605" y="-1300" width="1232" height="803" key="CommitChangelistDialog2" timestamp="1725255796572">
+    <state x="605" y="-1300" width="1232" height="803" key="CommitChangelistDialog2" timestamp="1725255936839">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state x="605" y="-1300" width="1232" height="803" key="CommitChangelistDialog2/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255796572" />
+    <state x="605" y="-1300" width="1232" height="803" key="CommitChangelistDialog2/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255936839" />
     <state x="250" y="0" key="CommitChangelistDialog2/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725009395822" />
     <state x="403" y="95" key="FileChooserDialogImpl" timestamp="1724997376083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="403" y="95" key="FileChooserDialogImpl/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1724997376083" />
-    <state width="1234" height="338" key="GridCell.Tab.0.bottom" timestamp="1725255685931">
+    <state width="1450" height="339" key="GridCell.Tab.0.bottom" timestamp="1725934217354">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state width="1234" height="338" key="GridCell.Tab.0.bottom/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255685931" />
+    <state width="1450" height="339" key="GridCell.Tab.0.bottom/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725934217354" />
     <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725072984087" />
-    <state width="1234" height="338" key="GridCell.Tab.0.center" timestamp="1725255685931">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200530" />
+    <state width="1450" height="339" key="GridCell.Tab.0.center" timestamp="1725934217353">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state width="1234" height="338" key="GridCell.Tab.0.center/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255685931" />
+    <state width="1450" height="339" key="GridCell.Tab.0.center/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725934217353" />
     <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725072984087" />
-    <state width="1234" height="338" key="GridCell.Tab.0.left" timestamp="1725255685931">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200530" />
+    <state width="1450" height="339" key="GridCell.Tab.0.left" timestamp="1725934217353">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state width="1234" height="338" key="GridCell.Tab.0.left/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255685931" />
+    <state width="1450" height="339" key="GridCell.Tab.0.left/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725934217353" />
     <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725072984087" />
-    <state width="1234" height="338" key="GridCell.Tab.0.right" timestamp="1725255685931">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200530" />
+    <state width="1450" height="339" key="GridCell.Tab.0.right" timestamp="1725934217354">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state width="1234" height="338" key="GridCell.Tab.0.right/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255685931" />
+    <state width="1450" height="339" key="GridCell.Tab.0.right/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725934217354" />
     <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725072984087" />
-    <state width="1234" height="338" key="GridCell.Tab.1.bottom" timestamp="1725255661175">
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200530" />
+    <state width="1450" height="339" key="GridCell.Tab.1.bottom" timestamp="1725934217354">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state width="1234" height="338" key="GridCell.Tab.1.bottom/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255661175" />
+    <state width="1450" height="339" key="GridCell.Tab.1.bottom/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725934217354" />
     <state width="1493" height="178" key="GridCell.Tab.1.bottom/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725072984088" />
-    <state width="1234" height="338" key="GridCell.Tab.1.center" timestamp="1725255661175">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200531" />
+    <state width="1450" height="339" key="GridCell.Tab.1.center" timestamp="1725934217354">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state width="1234" height="338" key="GridCell.Tab.1.center/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255661175" />
+    <state width="1450" height="339" key="GridCell.Tab.1.center/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725934217354" />
     <state width="1493" height="178" key="GridCell.Tab.1.center/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725072984088" />
-    <state width="1234" height="338" key="GridCell.Tab.1.left" timestamp="1725255661175">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200531" />
+    <state width="1450" height="339" key="GridCell.Tab.1.left" timestamp="1725934217354">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state width="1234" height="338" key="GridCell.Tab.1.left/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255661175" />
+    <state width="1450" height="339" key="GridCell.Tab.1.left/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725934217354" />
     <state width="1493" height="178" key="GridCell.Tab.1.left/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725072984088" />
-    <state width="1234" height="338" key="GridCell.Tab.1.right" timestamp="1725255661175">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200530" />
+    <state width="1450" height="339" key="GridCell.Tab.1.right" timestamp="1725934217354">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state width="1234" height="338" key="GridCell.Tab.1.right/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255661175" />
+    <state width="1450" height="339" key="GridCell.Tab.1.right/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725934217354" />
     <state width="1493" height="178" key="GridCell.Tab.1.right/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725072984088" />
-    <state width="1234" height="491" key="GridCell.Tab.2.bottom" timestamp="1725197096887">
-      <screen x="-326" y="-1440" width="2560" height="1400" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200531" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom" timestamp="1725617200531">
+      <screen x="1549" y="-1080" width="1920" height="1040" />
     </state>
     <state width="1234" height="491" key="GridCell.Tab.2.bottom/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725197096887" />
-    <state width="1234" height="491" key="GridCell.Tab.2.center" timestamp="1725197096887">
-      <screen x="-326" y="-1440" width="2560" height="1400" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200531" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center" timestamp="1725617200531">
+      <screen x="1549" y="-1080" width="1920" height="1040" />
     </state>
     <state width="1234" height="491" key="GridCell.Tab.2.center/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725197096887" />
-    <state width="1234" height="491" key="GridCell.Tab.2.left" timestamp="1725197096887">
-      <screen x="-326" y="-1440" width="2560" height="1400" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200531" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left" timestamp="1725617200531">
+      <screen x="1549" y="-1080" width="1920" height="1040" />
     </state>
     <state width="1234" height="491" key="GridCell.Tab.2.left/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725197096887" />
-    <state width="1234" height="491" key="GridCell.Tab.2.right" timestamp="1725197096887">
-      <screen x="-326" y="-1440" width="2560" height="1400" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200531" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right" timestamp="1725617200531">
+      <screen x="1549" y="-1080" width="1920" height="1040" />
     </state>
     <state width="1234" height="491" key="GridCell.Tab.2.right/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725197096887" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725617200531" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1725007406485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725007406485" />
-    <state x="276" y="-1194" key="Vcs.Push.Dialog.v2" timestamp="1725255810487">
+    <state x="276" y="-1194" key="Vcs.Push.Dialog.v2" timestamp="1725255954563">
       <screen x="-326" y="-1440" width="2560" height="1400" />
     </state>
-    <state x="276" y="-1194" key="Vcs.Push.Dialog.v2/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255810487" />
+    <state x="276" y="-1194" key="Vcs.Push.Dialog.v2/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725255954563" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725009423483" />
     <state x="445" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1724993107567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="445" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1724993107567" />
-    <state x="563" y="-824" key="new project wizard" timestamp="1725184763156">
-      <screen x="-326" y="-1440" width="2560" height="1400" />
+    <state x="1958" y="-661" key="new project wizard" timestamp="1725611954619">
+      <screen x="1549" y="-1080" width="1920" height="1040" />
     </state>
     <state x="563" y="-824" key="new project wizard/0.0.1536.824/-326.-1440.2560.1400@-326.-1440.2560.1400" timestamp="1725184763156" />
     <state x="178" y="107" key="new project wizard/0.0.1536.824/-326.-1440.2560.1400@0.0.1536.824" timestamp="1725006756077" />
+    <state x="1958" y="-661" key="new project wizard/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725611954619" />
+    <state x="2172" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1725613160507">
+      <screen x="1549" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2172" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1549.-1080.1920.1040@1549.-1080.1920.1040" timestamp="1725613160507" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-passenger/src/main/java/com/mashibing/apipassenger/interceptor/JwtInterceptor.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

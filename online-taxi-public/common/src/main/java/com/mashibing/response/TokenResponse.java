@@ -4,12 +4,12 @@ import lombok.Data;
 
 @Data
 public class TokenResponse {
-    private String token;
+    private String refreshToken;
 
-    public TokenResponse() {
-    }
+    private String accessToken;
 
-    public TokenResponse(String token) {
-        this.token = token;
+    public TokenResponse(String refreshToken, String accessToken) {
+        this.refreshToken = refreshToken;
+        this.accessToken = accessToken;
     }
 }
