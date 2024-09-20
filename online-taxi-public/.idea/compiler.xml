@@ -9,9 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api-passenger" />
         <module name="common" />
-        <module name="service-verificationcode" />
+        <module name="service-price" />
         <module name="service-passenger-user" />
         <module name="internal-common" />
+        <module name="service-verificationcode" />
+        <module name="service-map" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,7 +25,9 @@
       <module name="api-passenger" options="-parameters" />
       <module name="common" options="-parameters" />
       <module name="internal-common" options="-parameters" />
+      <module name="service-map" options="-parameters" />
       <module name="service-passenger-user" options="-parameters" />
+      <module name="service-price" options="-parameters" />
       <module name="service-verificationcode" options="-parameters" />
     </option>
   </component>
